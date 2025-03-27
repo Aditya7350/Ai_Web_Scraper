@@ -1,0 +1,9 @@
+streamlit
+selenium
+requests
+BeautifulSoup4
+pandas
+urljoin
+base64
+json
+virtualenv
